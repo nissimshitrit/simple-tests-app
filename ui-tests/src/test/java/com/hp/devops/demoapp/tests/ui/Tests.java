@@ -9,7 +9,7 @@ import static org.junit.Assert.assertEquals;
 public class Tests {
     @Test
     public void testPassed(){
-        assertEquals(false,true);
+        assertEquals(false,fasle);
     }
 
     @Test
