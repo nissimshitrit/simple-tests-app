@@ -9,6 +9,7 @@ import static org.junit.Assert.assertEquals;
 public class Tests {
     @Test
     public void testPassed(){
+      //mycomment
         assertEquals(true,false);
     }
 
