@@ -10,11 +10,11 @@ public class Tests {
     @Test
     public void testPassed(){
       //mycomment
-        assertEquals(false,false);
+        assertEquals(true,false);
     }
 
     @Test
     public void testFailed(){
-        assertEquals(true,false);
+        assertEquals(false,false);
     }
 }
